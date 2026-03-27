@@ -1,4 +1,4 @@
-class DataHandler {
+export class DataHandler {
     Clicks = 0;
 
     constructor() {

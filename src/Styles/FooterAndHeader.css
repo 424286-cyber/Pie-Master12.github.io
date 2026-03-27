@@ -1,0 +1,57 @@
+
+/* Header Stuff */
+
+.HeaderContainer {
+    padding: 0%;
+}
+
+
+
+
+/* Footer stuff */
+
+footer {
+    visibility: hidden;
+    visibility: collapse;
+}
+
+.Footer-Container {
+    border-color: rgba(43, 0, 108, 0.8);
+    border-width: 2px;
+
+    padding-bottom: 1%;
+    padding-top: 1%;
+}
+
+.Footer-QuickLinks {
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Footer-Info {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.Footer-Info-Box {
+    padding: 4px;
+    color: rgb(255, 255, 255, 0.7);
+}
+
+.Footer-Bottom-Strip {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(255, 255, 255, 0.7);
+}
+
+.Footer-Buttons {
+    color: rgb(255, 255, 255, 0.7);
+    background-color: rgb(77, 77, 77);
+}
